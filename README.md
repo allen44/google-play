@@ -1,2 +1,2 @@
 # google-play
-Analyze dat on Google Play app store
+Analyze data on Google Play app store
